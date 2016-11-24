@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo sh -c 'cat ssh_config.patch >> /etc/ssh/ssh_config'
